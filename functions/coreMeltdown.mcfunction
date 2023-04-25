@@ -14,4 +14,4 @@
 /playsound core.meltdown @a ~~~
 /scoreboard objectives add Timer dummy Timer
 /scoreboard players set 4s Timer 80
-
+/playsound core.meltdownStarting @a ~~~
