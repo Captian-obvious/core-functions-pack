@@ -10,4 +10,4 @@
 #/scoreboard players random <player: target> <objective: string> <min: int> < max: int>
 #/scoreboard players <add|remove|set> <player: target> <objective: string> <count: int>
 #/scoreboard players operations <targetName: target> <targetObjective: string> <operation: operation>
-/scoreboard objectives add ExplosionTimer dummy 'Explosion Timer'
+/scoreboard objectives add core_timer dummy "Explosion Timer"
