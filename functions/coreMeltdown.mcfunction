@@ -12,4 +12,6 @@
 #/scoreboard players operations <targetName: target> <targetObjective: string> <operation: operation>
 /scoreboard objectives add core_timer dummy "§4Explosion Timer§r"
 /playsound core.meltdown @a ~~~
+/scoreboard objectives add Timer dummy Timer
+/scoreboard players set 4s Timer 80
 
